@@ -1,8 +1,14 @@
 # Print-It
+## 5ème projet de la formation
 
-5ème projet de la formation
+![image](https://stephane-mouron.fr/assets/images/print-it-js.png)
 
-Mission: Faire ses premiers pas sur le langage JavaScript.
+## Contexte
+Vous débutez comme développeur front-end en freelance, et venez de décrocher une offre pour<br> 
+dynamiser le site Internet statique de l’imprimerie Print it.
+
+## Mission:
+Faire ses premiers pas sur le langage JavaScript.
 
 <h2>Étapes du projet:</h2>
 
