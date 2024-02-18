@@ -1,5 +1,4 @@
 # Print-It
-## 5ème projet de la formation
 
 ![image](https://stephane-mouron.fr/assets/images/print-it-js.png)
 
